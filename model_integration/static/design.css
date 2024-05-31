@@ -1,0 +1,13 @@
+body {
+    background:url("./dark-blur-abstract-4k-2880x1800.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.cfonts {
+    font-family: 'Oswald', sans-serif
+}
+h1 {
+    font-family: 'Oswald', sans-serif
+}
